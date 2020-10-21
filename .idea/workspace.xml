@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a46510a9-ef04-45e0-86e2-27e293d6eb06" name="Default Changelist" comment="quitamos article y section">
+    <list default="true" id="a46510a9-ef04-45e0-86e2-27e293d6eb06" name="Default Changelist" comment="cambios tamaño imagen">
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <workItem from="1602982211307" duration="3830000" />
       <workItem from="1603151769371" duration="963000" />
       <workItem from="1603230225496" duration="8940000" />
-      <workItem from="1603243568722" duration="1393000" />
+      <workItem from="1603243568722" duration="1797000" />
     </task>
     <task id="LOCAL-00001" summary="pagina juego">
       <created>1594333923233</created>
@@ -197,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603244482389</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="cambios tamaño imagen">
+      <created>1603244988267</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603244988267</updated>
+    </task>
+    <task id="LOCAL-00017" summary="cambios tamaño imagen">
+      <created>1603244992779</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603244992779</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +236,8 @@
     <MESSAGE value="tratando de arreglar en css" />
     <MESSAGE value="arreglado bugs" />
     <MESSAGE value="quitamos article y section" />
-    <option name="LAST_COMMIT_MESSAGE" value="quitamos article y section" />
+    <MESSAGE value="cambios tamaño imagen" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios tamaño imagen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599524508177">
@@ -241,10 +256,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1600131138509" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603244589064">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603245011945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603244589064" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603245011945" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596586870711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

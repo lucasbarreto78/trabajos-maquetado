@@ -68,17 +68,14 @@ h1{
 }
 
 #logo {
-  background-image: url("../img/dublin,noche.jpg");
+  background-image: url(../img/dublin,noche.jpg);
   background-repeat: no-repeat;
+  height: 100vh;
+  background-position: center;
   justify-content: center;
   display: flex;
-  /* background-size: cover; */
-  padding: 0;
-  margin: 0;
+  background-size: cover;
   box-sizing: content-box;
-  width: 1780px;
-  height: 100vh;
-
 }
 
 main{
