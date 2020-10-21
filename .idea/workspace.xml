@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a46510a9-ef04-45e0-86e2-27e293d6eb06" name="Default Changelist" comment="quitamos article y section" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eF1oVoiC0ZbgrEBQUddls9Tk7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46510a9-ef04-45e0-86e2-27e293d6eb06" name="Default Changelist" comment="" />
+      <created>1593902701519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593902701519</updated>
+      <workItem from="1593902705162" duration="4818000" />
+      <workItem from="1593984651529" duration="43000" />
+      <workItem from="1594148531979" duration="17409000" />
+      <workItem from="1594236980188" duration="13056000" />
+      <workItem from="1594333126767" duration="3223000" />
+      <workItem from="1594354307981" duration="8967000" />
+      <workItem from="1594425488409" duration="3000" />
+      <workItem from="1596238831322" duration="10113000" />
+      <workItem from="1596398404319" duration="6119000" />
+      <workItem from="1596498945499" duration="3039000" />
+      <workItem from="1596504029799" duration="1738000" />
+      <workItem from="1596505795721" duration="3234000" />
+      <workItem from="1596575901941" duration="632000" />
+      <workItem from="1596583847559" duration="5027000" />
+      <workItem from="1596589318871" duration="2965000" />
+      <workItem from="1596592670198" duration="120000" />
+      <workItem from="1597965204522" duration="1387000" />
+      <workItem from="1598049975364" duration="1229000" />
+      <workItem from="1599518747676" duration="1425000" />
+      <workItem from="1600130275606" duration="4674000" />
+      <workItem from="1602875228694" duration="1329000" />
+      <workItem from="1602876586034" duration="9162000" />
+      <workItem from="1602904624774" duration="127000" />
+      <workItem from="1602982211307" duration="3830000" />
+      <workItem from="1603151769371" duration="963000" />
+      <workItem from="1603230225496" duration="8940000" />
+      <workItem from="1603243568722" duration="494000" />
+    </task>
+    <task id="LOCAL-00001" summary="pagina juego">
+      <created>1594333923233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594333923233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pagina juego">
+      <created>1594334226479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594334226479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pagina juego">
+      <created>1594339310331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594339310331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pagina juego">
+      <created>1594363803878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594363803878</updated>
+    </task>
+    <task id="LOCAL-00005" summary="imagenes desplazables">
+      <created>1596241360131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596241360131</updated>
+    </task>
+    <task id="LOCAL-00006" summary="projecto jQuery terminado">
+      <created>1596504269246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596504269246</updated>
+    </task>
+    <task id="LOCAL-00007" summary="projecto jQuery terminado">
+      <created>1596504799466</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596504799466</updated>
+    </task>
+    <task id="LOCAL-00008" summary="projecto jQuery terminado">
+      <created>1596508760038</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596508760038</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tratando de arreglar en css">
+      <created>1596586731175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596586731175</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tratando de arreglar en css">
+      <created>1596587756595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596587756595</updated>
+    </task>
+    <task id="LOCAL-00011" summary="arreglado bugs">
+      <created>1596592761987</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596592761987</updated>
+    </task>
+    <task id="LOCAL-00012" summary="quitamos article y section">
+      <created>1600131344292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600131344292</updated>
+    </task>
+    <task id="LOCAL-00013" summary="quitamos article y section">
+      <created>1600131358403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600131358403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pagina juego" />
+    <MESSAGE value="imagenes desplazables" />
+    <MESSAGE value="projecto jQuery terminado" />
+    <MESSAGE value="tratando de arreglar en css" />
+    <MESSAGE value="arreglado bugs" />
+    <MESSAGE value="quitamos article y section" />
+    <option name="LAST_COMMIT_MESSAGE" value="quitamos article y section" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599524508177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599524508177" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1603243480026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603243480026" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600130974930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600130974930" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1600131138509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1600131138509" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596592774120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596592774120" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596586870711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596586870711" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600130578018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600130578018" />
+    <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596586510351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596586510351" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602982509273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602982509273" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1600130560797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600130560797" />
+  </component>
+</project>

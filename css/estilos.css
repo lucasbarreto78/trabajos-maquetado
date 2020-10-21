@@ -1,0 +1,89 @@
+
+body {
+  font-family: sans-serif;
+  width: 100%;
+  background-image: url("../img/istockphoto-1095388662-170667a.jpg");
+}
+
+html {
+  box-sizing: border-box;
+}
+
+#barra-navegacion {
+  display: flex;
+  font-size: 20px;
+  color: white;
+  justify-content: end;
+  padding: 0 70px;
+  align-items: center;
+  background-color: #222121;
+  margin: 0;
+  height: 50px;
+
+
+}
+
+
+
+.navegacion ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav{
+  font-size: 20px;
+}
+
+.navegacion ul li {
+  padding: 0 25px;
+  font-weight: bold;
+}
+#lista{
+  position:relative;
+  display:inline-block;
+}
+#absoluta{
+  position:absolute;
+  display:none;
+  margin:0;
+}
+
+#absoluta li a{
+  color:white;
+}
+
+
+ul #lista:hover #absoluta{
+  display:block;
+  margin:0;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+h1{
+  display: none;
+}
+
+#logo {
+  background-image: url("../img/dublin,noche.jpg");
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  /* background-size: cover; */
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+  width: 1780px;
+  height: 790px;
+
+}
+
+main{
+  background-color: white;
+  width: 980px;
+  padding: 30px 20px;
+  margin: auto;
+}
